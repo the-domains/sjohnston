@@ -1,0 +1,28 @@
+name: sjohnston
+favicon: null
+layout_spectrum: 0.6238465805072337
+typography_spectrum: 0.5149205699563026
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.08485184656456113
+  lightness: 0.4042039557825774
+  saturation: 0.7886926906649023
+  rhythmicContrast: 0.6811571426223963
+purpose: []
